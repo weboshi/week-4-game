@@ -1,0 +1,53 @@
+
+.howto {
+    background-color: grey;
+    padding: 20px;
+    margin: 30px;
+    width: 400px;
+    line-height: 50px;
+}
+
+div { 
+    background-color: grey;
+    padding: 20px;
+    margin: 30px;
+}
+
+.section3 {
+    background-color: grey;
+    padding: 20px;
+    margin: 30px;
+}
+
+.diamonds { 
+    background-color: grey;
+    padding: 10px;
+    margin: 30px;
+}
+#diamond1 {
+    float: left;
+    padding: 50px;
+}
+#diamond2 {
+    float: left;
+    padding: 50px;
+}
+#diamond3 {
+    float: left;
+    padding: 50px;
+}
+#diamond4 {
+    float: left;
+    padding: 50px;
+}
+.scoretext {
+    background-color: grey;
+    padding: 20px;
+    margin: 30px;
+}
+
+.score {
+    background-color: grey;
+    padding: 20px;
+    margin: 30px;
+}
